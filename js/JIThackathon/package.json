@@ -1,0 +1,26 @@
+{
+  "name": "jithackathon",
+  "version": "1.0.0",
+  "description": "track medicine products with blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sairam269/MedicineTracking.git"
+  },
+  "keywords": [
+    "eth"
+  ],
+  "author": "sai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sairam269/MedicineTracking/issues"
+  },
+  "homepage": "https://github.com/sairam269/MedicineTracking#readme",
+  "dependencies": {
+    "web.js": "^1.0.1",
+    "web3": "^0.20.6"
+  }
+}
